@@ -1,0 +1,11 @@
+吃油条必须喝豆浆:
+okok
+
+吃油条必须喝豆浆:
+Glen Canyon dam主要数据来源；https://lakepowell.water-data.com/
+Hoover dam 主要数据来源：http://lakemead.water-data.com/index2.php
+Arizona用电数据；https://www.eia.gov/electricity/state/arizona/
+Arizona工业用水数据：https://waterdata.usgs.gov/az/nwis/water_use?format=html_table&rdb_compression=file&wu_area=State+Total&wu_year=ALL&wu_category=IN&wu_category_nms=Industrial
+Arizona灌溉用水数据：https://waterdata.usgs.gov/az/nwis/water_use?format=html_table&rdb_compression=file&wu_area=State+Total&wu_year=ALL&wu_category=IT&wu_category_nms=Irrigation%252C%2BTotal
+Arizona生活用水数据：https://waterdata.usgs.gov/az/nwis/water_use?format=html_table&rdb_compression=file&wu_area=State+Total&wu_year=ALL&wu_category=PS&wu_category_nms=Public%2BSupply
+%其余的数据只需要改变州的名即可，查找方式类似
