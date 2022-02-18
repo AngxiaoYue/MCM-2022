@@ -1,4 +1,5 @@
 *-说明比较重要    @-说明非常重要    ()-额外注释
+
 2/18 上午
 B-大旱中水坝、水库、水电站与河流的关系 http://www.hydropower.org.cn/showNewsDetail.asp?nsId=2687 (了解水库，水坝的基本运行机制)
-*B-多水库调度优化-https://iwaponline.com/ws/article/21/5/2518/80795/Multi-objective-optimal-operation-of-reservoir(可惜只讨论供水，没有讨论发电)
+B-多水库调度优化-https://iwaponline.com/ws/article/21/5/2518/80795/Multi-objective-optimal-operation-of-reservoir(可惜只讨论供水，没有讨论发电)
