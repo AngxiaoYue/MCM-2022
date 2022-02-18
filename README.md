@@ -1,2 +1,2 @@
 # 2022COMP
-2022 COMP latex and code repository
+2022 COMP paper and code repository
